@@ -33,11 +33,11 @@ In Vitória alone, this rate represented an approximate loss of 19.5 million rea
 Why this data called my attention?<br>
 It was collected in the city where I was born in Brazil (Vitória in Espírito Santo).<br>
 It's interesting to work with data that you're familiar with. <br>
-This data set was chosen from Kaggle's Dataset platform: https://www.kaggle.com/joniarroba/noshowappointments/data<br>
+This data set was chosen from Kaggle's Dataset platform: https://www.kaggle.com/joniarroba/noshowappointments/data
 
 ### Movie Revenue Prediction: What's the best model: Linear, Polynomial, Ridge, Lasso regression.
 ### Goal: Select best features and get the smallest rMSE and greatest r2
-My intentions behind this notebook were to use the movie_metadata dataset to fit a regression model to predict gross. I use Linear, Polynomial, Ridge, Lasso regression and compared them based on r2 and rMSE evaluation metric.
+My intentions behind this notebook were to use the movie_metadata dataset to fit a regression model to predict gross. I use Linear, Polynomial, Ridge, Lasso regression and compared them based on r2 and rMSE evaluation metric.<br>
 Data: https://www.kaggle.com/karrrimba/movie-metadatacsv
 
 ### Admitted or not?
@@ -46,5 +46,5 @@ admit-> is a binary variable. It indicates whether or not a candidate was admitt
 gre -> is the GRE score. GRE stands for Graduate Record Examination.
 gpa -> stands for Grade Point Average.
 prestige -> is the prestige of an applicant alta mater, with 1 being the highest (high prestige) and 4 as the lowest (not prestigious).
-Goal:<br>
+###Goal:<br>
 The target variable admit indicates whether or not a candidate will be admitted into UCLA (admit = 1) our not (admit = 0). Minimizes False Positives means that the model will minimize incorrect flags as admit. Minimizes False Negatives means that the model will minimize incorrect flags as not admit. In this case, I will try to minimize the false positives because the cost of admit the wrong candidate could be higher than not admit the correct candidate.
