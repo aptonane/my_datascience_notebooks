@@ -37,7 +37,7 @@ This data set was chosen from Kaggle's Dataset platform: https://www.kaggle.com/
 
 ### Movie Revenue Prediction: What's the best model: Linear, Polynomial, Ridge, Lasso regression.
 ### Goal: Select best features and get the smallest rMSE and greatest r2
-My intentions behind this notebook were to use the movie_metadata dataset to fit a regression model to predict gross. I use Linear, Polynomial, Ridge, Lasso regression and compared them based on r2 and rMSE evaluation metric.<br>
+My intentions behind this notebook were to use the movie_metadata dataset to fit a regression model to predict gross. I used Linear, Polynomial, Ridge, Lasso regression and compared them based on r2 and rMSE evaluation metric.<br>
 Data: https://www.kaggle.com/karrrimba/movie-metadatacsv
 
 ### Admitted or not?
