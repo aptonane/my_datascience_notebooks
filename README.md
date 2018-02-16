@@ -46,5 +46,5 @@ admit-> is a binary variable. It indicates whether or not a candidate was admitt
 gre -> is the GRE score. GRE stands for Graduate Record Examination.
 gpa -> stands for Grade Point Average.
 prestige -> is the prestige of an applicant alta mater, with 1 being the highest (high prestige) and 4 as the lowest (not prestigious).
-###Goal:<br>
+### Goal:<br>
 The target variable admit indicates whether or not a candidate will be admitted into UCLA (admit = 1) our not (admit = 0). Minimizes False Positives means that the model will minimize incorrect flags as admit. Minimizes False Negatives means that the model will minimize incorrect flags as not admit. In this case, I will try to minimize the false positives because the cost of admit the wrong candidate could be higher than not admit the correct candidate.
