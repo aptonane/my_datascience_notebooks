@@ -1,7 +1,7 @@
 
-# my_datascience_notebooks
+# My_datascience_notebooks
 
-## Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form Jupyter Notebook.
+### Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form Jupyter Notebook.
 
 # Contents:
 # House Sales in King County, USA Regularization and Selecting Models
