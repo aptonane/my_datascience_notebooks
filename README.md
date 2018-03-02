@@ -38,7 +38,7 @@ This data set was chosen from Kaggle's Dataset platform: https://www.kaggle.com/
 My intentions behind this notebook were to use the movie_metadata dataset to fit a regression model to predict gross. I used Linear, Polynomial, Ridge, Lasso regression and compared them based on r2 and rMSE evaluation metric.<br>
 Data: https://www.kaggle.com/karrrimba/movie-metadatacsv  <br>
 
-# 6) Admitted or not?:
+# 5) Admitted or not?:
 The dataset contains four variables: admit, gre, gpa, and prestige:<br>
 admit-> is a binary variable. It indicates whether or not a candidate was admitted into UCLA (admit = 1) our not (admit = 0). <br>
 gre -> is the GRE score. GRE stands for Graduate Record Examination. <br>
@@ -47,7 +47,7 @@ prestige -> is the prestige of an applicant alta mater, with 1 being the highest
 #### Goal:<br>
 The target variable admit indicates whether or not a candidate will be admitted into UCLA (admit = 1) our not (admit = 0). Minimizes False Positives means that the model will minimize incorrect flags as admit. Minimizes False Negatives means that the model will minimize incorrect flags as not admit. In this case, I will try to minimize the false positives because the cost of admit the wrong candidate could be higher than not admit the correct candidate. <br>
 
-# EDA (Exploratory Data Analysis) of Accidents in the Brazilian Federal Highways - (In Portuguese)
+# 6) EDA (Exploratory Data Analysis) of Accidents in the Brazilian Federal Highways - (In Portuguese)
 The Federal Highway Police in Brazil - PRF - serves about 70,000 km of federal highways and is distributed throughout the brazilian territory. <br>
 Between 2007 and 2016 the accidents records was carried out through the system where the police responsible for the occurrence inserted the data concerning those involved, the place, the vehicles and the accident. In January 2017 this system (BR-Brazil) was discontinued and the PRF started to use a new system to record the occurrences of traffic accidents. This new system provides a succinct description of the variables present in datasets recorded from January 2017, mainly on the people involved in the accidents.<br>
 This EDA is based on these datasets made available by theFederal Highway Police in Brazil.<br>
