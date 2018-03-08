@@ -60,11 +60,11 @@ This EDA is based on these datasets made available by theFederal Highway Police 
 In the years of 2015, 2016 and 2017, about 14,000 people died on brazilian federal roads and 200,000 were injured. In total (dead, wounded and unharmed) about 510,000 were traffic victims. The numbers raised in this EDA are alarming and worrying.<br>
 We also noted that the main cause of accidents was lack of attention. However, from the reports analyzed in parallel, the greatest cause of accidents has been the precarious conditions of conservation of the Brazilian roads. Perhaps the driver's mistakes regarding lack of attention (which should be redoubled when the road situation is inadequate), incompatible speed, alcohol intake, safety distance and disobedience to road signs are aggravated by the precarious condition of the roads, either the great cause of the excessive amount of accidents and deaths on the Brazilian roads.
 
-# 7) NPL: Classifying Most Negative and Positives Reviews:<br> 
+# 7) NLP: Classifying Most Negative and Positives Reviews:<br> 
 https://github.com/aptonane/my_notebooks/blob/master/NPL_Classifying_Most_Negatives_Positives_Reviews.ipynb <br> 
 Natural Language Processing (NLP) serves numerous use cases when dealing with text or unstructured text data. Let’s build a simple text classifier using Python’s Pandas, NLTK and Scikit-learn libraries.<br>
 I'am going to train a machine learning algorithm to classify yelp reviews as either Most Negative (0) or Most Positive (1) reviews. 
 
-# 8) NPL: Top ten "spammiest" words:<br> 
+# 8) NLP: Top ten "spammiest" words:<br> 
 https://github.com/aptonane/my_notebooks/blob/master/NPL_Top_ten_spammiest_words.ipynb <br> 
 Natural Language Processing (NLP) serves numerous use cases when dealing with text or unstructured text data. In this notebook, my goal is to find the top ten "spammiest" words in the dataset in yelp dataset.
