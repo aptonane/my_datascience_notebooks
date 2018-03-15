@@ -67,4 +67,7 @@ I'am going to train a machine learning algorithm to classify yelp reviews as eit
 
 # 8) NLP: Top ten "spammiest" words:<br> 
 https://github.com/aptonane/my_notebooks/blob/master/NPL_Top_ten_spammiest_words.ipynb <br> 
-Natural Language Processing (NLP) serves numerous use cases when dealing with text or unstructured text data. In this notebook, my goal is to find the top ten "spammiest" words in the dataset in yelp dataset.
+Natural Language Processing (NLP) serves numerous use cases when dealing with text or unstructured text data. In this notebook, my goal is to find the top ten "spammiest" words in yelp dataset.
+
+# 9) NLP_Stemming_and_Lemmatization.ipynb: <br>
+Natural Language Processing (NLP) serves numerous use cases when dealing with text or unstructured text data. In this notebook, my goal is to use stemming and lemmatization in our vectorizers.
